@@ -1,0 +1,2 @@
+# learningpython
+about learningpython
